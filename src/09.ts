@@ -7,6 +7,6 @@ let user: userType = {
     name: 'Jeka',
     age: 30
 }
-function icreaseAge(u: userType) {
+function incAge(u: userType) {
     u.age++
 }
